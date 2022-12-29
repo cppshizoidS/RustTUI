@@ -8,6 +8,7 @@ Used Libraries:
   * crossterm
   * rpassword
   * rusqlite
+  * arboard
   
   
 ![](https://img.shields.io/tokei/lines/github/cppshizoidS/RustTUI)
