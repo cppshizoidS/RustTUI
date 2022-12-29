@@ -1,7 +1,7 @@
 # RustTUI
 
 TUI password manager.
-Used Technoligies:
+Used Libraries:
 * Rust:
 
   * TUI
